@@ -1,4 +1,4 @@
-# TROBULE-SHOOTING-CE-AMPLIFIER-EXP-NO-7.
+# TROBULE-SHOOTING-CE-AMPLIFIER-EXP-NO-7
 # AIM AND APPARATUS REQUIRED 
 <img width="451" height="526" alt="image" src="https://github.com/user-attachments/assets/79e5b15f-c49c-46e2-8af4-0696f2e89998" />
 
